@@ -208,7 +208,6 @@ style the element with the id of hero
 
 .nav-link {
 	display: inline-block;
-	padding-top: 5px;
 	padding: 5px 15px;
 }
 
@@ -233,7 +232,7 @@ style the element with the id of hero
 
 #footer {
 	width: 100%;
-	height: 100%;
+	height: 100px;
 	line-height: 100px;
 }
 
